@@ -3,7 +3,7 @@ Chuỗi bài viết về Suy luận Nhân quả với Python và ứng dụng c�
 
 Đây là bản Việt hóa cuốn sách online [Suy luận Nhân quả cho những Chiến binh Quả cảm Chân Chính (Causal Inference for the Brave and True)](https://github.com/matheusfacure/python-causality-handbook) của tác giả [Matheus Facure](https://matheusfacure.github.io/about/).
 
-![img]('ipynb/data/img/brave-and-true.png')
+![img](ipynb/data/img/brave-and-true.png)
 
 Nguyên tác dựa trên các nguồn tài liệu bao gồm:
 
