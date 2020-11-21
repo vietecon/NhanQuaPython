@@ -5,7 +5,7 @@ Chuỗi bài viết về Suy luận Nhân quả với Python và ứng dụng c�
 
 ![img](ipynb/data/img/brave-and-true.png)
 
-Nguyên tác dựa trên nguồn tài liệu của các học giả uy tín như Joshua Angrist, Jorn-Steffen Pischke, Alberto Abadie, Christopher Walters, Miguel Hernan, Jamie Robinssons, Scott Cunningham...
+Nguyên tác dựa trên nguồn tài liệu của các học giả uy tín như Joshua Angrist, Jorn-Steffen Pischke, Alberto Abadie, Christopher Walters, Miguel Hernan, Jamie Robinsons, Scott Cunningham...
 
 * [Kinh tế lượng với dữ liệu chéo](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)
 * [Luyện chưởng Kinh tế lượng Gần như Vô hại](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
